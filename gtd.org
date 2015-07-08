@@ -50,11 +50,19 @@
 **** TODO Drink_water_08
     SCHEDULED: <2015-07-09 Thu 19:30 +1d>
 **** TODO Sleep_time
-     SCHEDULED: <2015-07-08 Wed 23:30-05:00 +1d>
+     SCHEDULED: <2015-07-09 Thu 23:30-05:00 +1d>
+     - State "DONE"       from "TODO"       [2015-07-08 Wed 23:33]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-08 Wed 23:33]
+     :END:
 **** TODO Speaking_time
      SCHEDULED: <2015-07-09 Thu 05:00-06:00 +1d>
 **** TODO Reading_time
-     SCHEDULED: <2015-07-08 Wed 22:30-23:30 +1d>
+     SCHEDULED: <2015-07-09 Thu 22:30-23:30 +1d>
+     - State "DONE"       from "TODO"       [2015-07-08 Wed 23:32]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-08 Wed 23:32]
+     :END:
 **** TODO Writing_time
      SCHEDULED: <2015-07-15 Wed 21:00-22:30 +1w>
      - State "done"       from "TODO"       [2015-07-08 Wed 20:57]
@@ -104,7 +112,26 @@
 ***** Redis-py
       DEADLINE: <2015-07-29 Wed>
 **** Technology_book_list
-***** <Programming in C>
+***** <Programming in C>[21%]
+- [X] Chapter One
+- [X] Chapter Two
+- [X] Chapter Three
+- [X] Chapter Four
+- [ ] Chapter Five
+- [ ] Chapter Six
+- [ ] Chapter Seven
+- [ ] Chapter Eight
+- [ ] Chapter Night
+- [ ] Chapter Ten
+- [ ] Chapter Eleven
+- [ ] Chapter Twelve
+- [ ] Chapter Thirteen
+- [ ] Chapter Fourteen
+- [ ] Chapter Fifteen
+- [ ] Chapter Sixteen
+- [ ] Chapter Seventeen
+- [ ] Chapter Eighteen
+- [ ] Chapter Nineteen
 ***** <Code:The Hidden Language of Computer Hardware and Software>
 ***** <Structure and INterpretation of Comuputer Programs>
 ***** <The Elements of Computing Systems>
@@ -167,6 +194,8 @@
      CLOCK: [2015-07-08 Wed 18:32]--[2015-07-08 Wed 19:09] =>  0:37
      :END:
 **** Hold Buy Some Snacks
-**** Catch The Regular Bus 
+**** DONE Catch The Regular Bus 
+     CLOSED: [2015-07-08 Wed 23:32]
+     - State "DONE"       from ""           [2015-07-08 Wed 23:32]
      <2015-07-08 21:30>
 ** temporary_list
