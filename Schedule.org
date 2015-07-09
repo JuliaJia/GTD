@@ -6,14 +6,19 @@
     - [-] 2015 [0%]
       Become a back-end development engineer
       - [-] Q3 [0%]
-        Learn how to develop
+     本周计划进度情况：本周计划进度情况：本周计划进度情况：本周计划进度情况：本周计划进度情况：本周计划进度情况：本周计划进度情况：本周计划进度情况：本周计划进度情况：本周计划进度情况：   Learn how to develop
         Eight points: 1.python 2.python flask 3.sql alchemy 4.mysql 5.mongodb 6.pymongo 7.redis 8.redis-py
         - [-] July [25%]
           Four core points: 1.python flask 2.sql alchemy 3.pymongo 4.redis-py
           - [X] Week 01 [100%]
             - [X] Learning how to use the emacs's org-mode to record the GTD's informations.
-          - [ ] Week 02 [0%]
-            - [ ] Learning how to deploy the python flask
+          - [-] Week 02 [0%]
+            - [-] Learning how to deploy the python flask[60%]
+              - [X] Install the python-flask environment
+              - [X] learn the python-flask's formwork
+              - [X] learn the jinja2's grammar
+              - [ ] learn the flask-wtf's form
+              - [ ] learn the python-flask's SqlAlchemy
             - [ ] Learning how to deploy the MySQL server
             - [ ] Learning how to deploy the Mongodb server
             - [ ] Learning how to deploy the Redis server
