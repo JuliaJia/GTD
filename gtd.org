@@ -7,7 +7,11 @@
     SCHEDULED: <2015-07-09 Thu 06:00-07:00 +1w>
 **** TODO Running_time                                                          :@life:@calendar:
      SCHEDULED: <2015-07-13 Mon 06:00-07:00 +1w>
+<<<<<<< HEAD
 **** WAITING Fitness_time                                                       :@life:@calendar:
+=======
+**** TODO Fitness_time                                                          :@life:@calendar:
+>>>>>>> b301e311959efe12fc6ac03f8f280ff5f3e98e8c
     SCHEDULED: <2015-07-10 Fri 21:30-22:30 +1w>
 **** TODO Fitness_time                                                          :@life:@calendar:
     SCHEDULED: <2015-07-13 Mon 21:30-22:30 +1w>
@@ -35,6 +39,7 @@
      :LAST_REPEAT: [2015-07-08 Wed 20:34]
      :END:
 **** TODO Reading_time
+<<<<<<< HEAD
      SCHEDULED: <2015-08-07 Fri 18:00-21:00 +1w>
      - State "DONE"       from "TODO"       [2015-07-10 Fri 23:47]
      - State "DONE"       from "TODO"       [2015-07-10 Fri 21:31]
@@ -46,6 +51,9 @@
      :PROPERTIES:
      :LAST_REPEAT: [2015-07-10 Fri 23:47]
      :END:
+=======
+     SCHEDULED: <2015-07-10 Fri 18:00-21:00 +1w>
+>>>>>>> b301e311959efe12fc6ac03f8f280ff5f3e98e8c
 **** TODO Reading_time
      SCHEDULED: <2015-07-13 Mon 18:00-21:00 +1w>
 **** TODO Coding_time
@@ -63,6 +71,7 @@
      :LAST_REPEAT: [2015-07-09 Thu 23:15]
      :END:
 **** TODO Coding_time
+<<<<<<< HEAD
      SCHEDULED: <2015-07-18 Sat 18:00-21:00 +1w>
      - State "DONE"       from "TODO"       [2015-07-11 Sat 20:59]
      :PROPERTIES:
@@ -81,11 +90,25 @@
 **** DONE Drink_water_02
      CLOSED: [2015-07-10 Fri 18:02] SCHEDULED: <2015-07-10 Fri 08:30>
      - State "DONE"       from "TODO"       [2015-07-10 Fri 18:02]
+=======
+     SCHEDULED: <2015-07-11 Sat 18:00-21:00 +1w>
+**** TODO Coding_time
+     SCHEDULED: <2015-07-14 Tue 18:00-21:00 +1w>
+**** TODO Drink_water_01
+     SCHEDULED: <2015-07-10 Fri 06:30 +1d>
+     - State "done"       from "TODO"       [2015-07-09 Thu 09:28]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-09 Thu 09:28]
+     :END:
+**** TODO Drink_water_02
+     SCHEDULED: <2015-07-10 Fri 08:30>
+>>>>>>> b301e311959efe12fc6ac03f8f280ff5f3e98e8c
      - State "done"       from "TODO"       [2015-07-09 Thu 09:30]
      :PROPERTIES:
      :LAST_REPEAT: [2015-07-09 Thu 09:30]
      :END:
 **** TODO Drink_water_03
+<<<<<<< HEAD
      SCHEDULED: <2015-07-12 Sun 10:30 +1d>
      - State "DONE"       from "TODO"       [2015-07-11 Sat 16:38]
      - State "DONE"       from "TODO"       [2015-07-10 Fri 18:02]
@@ -141,10 +164,53 @@
      - State "DONE"       from "TODO"       [2015-07-09 Thu 23:16]
      :PROPERTIES:
      :LAST_REPEAT: [2015-07-11 Sat 22:46]
+=======
+     SCHEDULED: <2015-07-10 Fri 10:30 +1d>
+     - State "done"       from "TODO"       [2015-07-09 Thu 11:28]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-09 Thu 11:28]
+     :END:
+**** TODO Drink_water_04
+     SCHEDULED: <2015-07-10 Fri 12:30 +1d>
+     - State "done"       from "TODO"       [2015-07-09 Thu 14:02]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-09 Thu 14:02]
+     :END:
+**** TODO Drink_water_05
+     SCHEDULED: <2015-07-10 Fri 14:30 +1d>
+     - State "done"       from "TODO"       [2015-07-09 Thu 14:44]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-09 Thu 14:44]
+     :END:
+**** TODO Drink_water_06
+     SCHEDULED: <2015-07-10 Fri 16:30 +1d>
+     - State "done"       from "TODO"       [2015-07-09 Thu 16:39]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-09 Thu 16:39]
+     :END:
+**** TODO Drink_water_07
+     SCHEDULED: <2015-07-10 Fri 18:30 +1d>
+     - State "done"       from "TODO"       [2015-07-09 Thu 19:19]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-09 Thu 19:19]
+     :END:
+**** TODO Drink_water_08
+     SCHEDULED: <2015-07-10 Fri 19:30 +1d>
+     - State "done"       from "TODO"       [2015-07-09 Thu 19:29]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-09 Thu 19:29]
+     :END:
+**** TODO Sleep_time
+     SCHEDULED: <2015-07-09 Thu 23:30-05:00 +1d>
+     - State "DONE"       from "TODO"       [2015-07-09 Thu 23:16]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-09 Thu 23:16]
+>>>>>>> b301e311959efe12fc6ac03f8f280ff5f3e98e8c
      :END:
 **** Hold Speaking_time
      SCHEDULED: <2015-07-09 Thu 05:00-06:00 +1d>
 **** TODO Reading_time
+<<<<<<< HEAD
      SCHEDULED: <2015-07-12 Sun 22:30-23:30 +1d>
      - State "DONE"       from "TODO"       [2015-07-11 Sat 22:33]
      - State "DONE"       from "TODO"       [2015-07-10 Fri 21:29]
@@ -152,6 +218,13 @@
      - State "DONE"       from "TODO"       [2015-07-09 Thu 23:15]
      :PROPERTIES:
      :LAST_REPEAT: [2015-07-11 Sat 22:33]
+=======
+     SCHEDULED: <2015-07-10 Fri 22:30-23:30 +1d>
+     - State "DONE"       from "TODO"       [2015-07-09 Thu 23:15]
+     - State "DONE"       from "TODO"       [2015-07-09 Thu 23:15]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-09 Thu 23:15]
+>>>>>>> b301e311959efe12fc6ac03f8f280ff5f3e98e8c
      :END:
 **** TODO Writing_time
      SCHEDULED: <2015-07-15 Wed 21:00-22:30 +1w>
@@ -175,6 +248,7 @@
 **** TODO Writing_time
      SCHEDULED: <2015-07-14 Tue 21:00-22:30 +1w>
 **** TODO Writing_time
+<<<<<<< HEAD
      SCHEDULED: <2015-08-15 Sat 21:00-22:30 +1w>
      - State "DONE"       from "TODO"       [2015-07-11 Sat 22:46]
      - State "DONE"       from "TODO"       [2015-07-11 Sat 22:46]
@@ -219,6 +293,19 @@
      :PROPERTIES:
      :LAST_REPEAT: [2015-07-11 Sat 22:46]
      :END:
+=======
+     SCHEDULED: <2015-07-11 Sat 21:00-22:30 +1w>
+**** TODO Writing_time
+     SCHEDULED: <2015-07-12 Sun 21:00-22:30 +1w>
+**** TODO Writing_time
+     SCHEDULED: <2015-07-10 Fri 16:00-17:30 +1w>
+**** TODO Writing_time
+     SCHEDULED: <2015-07-13 Mon 16:00-17:30 +1w>
+**** TODO Study_time
+     SCHEDULED: <2015-07-11 Sat 8:00-12:00 +1w>
+**** TODO Study_time
+     SCHEDULED: <2015-07-11 Sat 14:00-17:30 +1w>
+>>>>>>> b301e311959efe12fc6ac03f8f280ff5f3e98e8c
 **** TODO Plan_time
      SCHEDULED: <2015-07-12 Sun 8:00-12:00 +2w>
 **** TODO Plan_time
@@ -231,7 +318,11 @@
      SCHEDULED: <2015-07-12 Sun 19:30-20:30 +1w>
 *** Projects 
 **** Back_end development engineer
+<<<<<<< HEAD
 ***** WAITING python flask
+=======
+***** STARTED python flask
+>>>>>>> b301e311959efe12fc6ac03f8f280ff5f3e98e8c
       DEADLINE: <2015-07-10 Fri>
       - State "STARTED"    from "done"       [2015-07-09 Thu 11:31]
       - State "done"       from "STARTED"    [2015-07-09 Thu 11:30]
@@ -255,12 +346,20 @@
       DEADLINE: <2015-07-29 Wed>
 **** Technology_book_list
 ***** <Programming in C>[0%]
+<<<<<<< HEAD
   - [-] Theory Note[26%]
+=======
+  - [-] Theory Note[21%]
+>>>>>>> b301e311959efe12fc6ac03f8f280ff5f3e98e8c
     - [X] Chapter One
     - [X] Chapter Two
     - [X] Chapter Three
 	- [X] Chapter Four
+<<<<<<< HEAD
 	- [X] Chapter Five
+=======
+	- [ ] Chapter Five
+>>>>>>> b301e311959efe12fc6ac03f8f280ff5f3e98e8c
 	- [ ] Chapter Six
 	- [ ] Chapter Seven
 	- [ ] Chapter Eight
@@ -338,6 +437,7 @@
 ***** <Refactoring Improving The Design Of Existing Code>
 ***** <How To Design Programs>
 **** Technology_class_list
+<<<<<<< HEAD
 ***** <python>[15%]
   - [X] Lesson One[11/11]
     - [X] Course introdution
@@ -395,6 +495,8 @@
   - [ ] Lesson Seventeen
   - [ ] Lesson Eighteen
   - [ ] Lesson Nineteen
+=======
+>>>>>>> b301e311959efe12fc6ac03f8f280ff5f3e98e8c
 ***** <Introduction To Computer Science And Programming Using Python>
 ***** <Harvard CS50>
 ***** <Udacity CS212 Design Of Computer Program>
@@ -407,6 +509,15 @@
 ***** <Udacity CS262 Programming Language>
 ***** <Advanced Data Structures>
 *** Next Action
+<<<<<<< HEAD
+=======
+**** done Have A Dinner
+     CLOSED: [2015-07-08 Wed 19:09]
+     - State "done"       from "STARTED"    [2015-07-08 Wed 19:09]
+     :LOGBOOK:
+     CLOCK: [2015-07-08 Wed 18:32]--[2015-07-08 Wed 19:09] =>  0:37
+     :END:
+>>>>>>> b301e311959efe12fc6ac03f8f280ff5f3e98e8c
 **** DONE Buy Some Snacks
      CLOSED: [2015-07-09 Thu 23:13]
      - State "DONE"       from "TODO"       [2015-07-09 Thu 23:13]
@@ -451,7 +562,10 @@
      CLOSED: [2015-07-09 Thu 23:14]
      - State "DONE"       from ""           [2015-07-09 Thu 23:14]
      - State "done"       from "TODO"       [2015-07-09 Thu 17:22]
+<<<<<<< HEAD
 **** DONE Buy Some Snacks
      CLOSED: [2015-07-11 Sat 20:59]
      - State "DONE"       from "TODO"       [2015-07-11 Sat 20:59]
+=======
+>>>>>>> b301e311959efe12fc6ac03f8f280ff5f3e98e8c
 ** temporary_list
