@@ -1,0 +1,457 @@
+#+TAGS: @home @office @calendar @Trash @memo @life @work @summary @blog @c++ @python @arithmetic @redis @mongodb @mysql @c @java @scala @hadoop @R @spark @machine_learning @octopress @learn
+
+* Five_Years_Plan(2015.07-2020.07)
+** Job_list 
+*** Periodic Activity
+**** Hold Running_time                                                          :@life:@calendar:
+    SCHEDULED: <2015-07-09 Thu 06:00-07:00 +1w>
+**** TODO Running_time                                                          :@life:@calendar:
+     SCHEDULED: <2015-07-13 Mon 06:00-07:00 +1w>
+**** WAITING Fitness_time                                                       :@life:@calendar:
+    SCHEDULED: <2015-07-10 Fri 21:30-22:30 +1w>
+**** TODO Fitness_time                                                          :@life:@calendar:
+    SCHEDULED: <2015-07-13 Mon 21:30-22:30 +1w>
+**** TODO Noon_break_time                                                       :@life:@calendar:
+     SCHEDULED: <2015-07-14 Tue 12:00-14:00 +1d>
+     - State "DONE"       from "TODO"       [2015-07-09 Thu 23:15]
+     - State "DONE"       from "TODO"       [2015-07-09 Thu 23:15]
+     - State "done"       from "TODO"       [2015-07-09 Thu 17:48]
+     - State "done"       from "TODO"       [2015-07-09 Thu 14:16]
+     - State "done"       from "STARTED"    [2015-07-09 Thu 14:02]
+    :LOGBOOK:
+    CLOCK: [2015-07-09 Thu 13:32]--[2015-07-09 Thu 14:02] =>  0:30
+    :END:
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-09 Thu 23:15]
+     :END:
+**** TODO Reading_time                                                          :@home:@calendar:@learn:
+     SCHEDULED: <2015-07-22 Wed 18:00-21:00 +1w>
+     - State "done"       from "TODO"       [2015-07-08 Wed 20:34]
+     - State "done"       from "TODO"       [2015-07-08 Wed 20:33]
+     :LOGBOOK:
+     CLOCK: [2015-07-08 Wed 19:11]--[2015-07-08 Wed 20:32] =>  1:21
+     :END:
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-08 Wed 20:34]
+     :END:
+**** TODO Reading_time
+     SCHEDULED: <2015-08-07 Fri 18:00-21:00 +1w>
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 23:47]
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 21:31]
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 21:29]
+     - State "DONE"       from "STARTED"    [2015-07-10 Fri 21:29]
+     :LOGBOOK:
+     CLOCK: [2015-07-10 Fri 18:07]--[2015-07-10 Fri 21:29] =>  3:22
+     :END:
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-10 Fri 23:47]
+     :END:
+**** TODO Reading_time
+     SCHEDULED: <2015-07-13 Mon 18:00-21:00 +1w>
+**** TODO Coding_time
+     SCHEDULED: <2015-08-20 Thu 18:00-21:00 +1w>
+     - State "DONE"       from "TODO"       [2015-07-09 Thu 23:15]
+     - State "DONE"       from "TODO"       [2015-07-09 Thu 23:15]
+     - State "DONE"       from "TODO"       [2015-07-09 Thu 23:12]
+     - State "done"       from "TODO"       [2015-07-09 Thu 21:23]
+     - State "done"       from "TODO"       [2015-07-09 Thu 20:50]
+     - State "done"       from "STARTED"    [2015-07-09 Thu 20:50]
+     :LOGBOOK:
+     CLOCK: [2015-07-09 Thu 18:07]--[2015-07-09 Thu 20:50] =>  2:43
+     :END:
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-09 Thu 23:15]
+     :END:
+**** TODO Coding_time
+     SCHEDULED: <2015-07-18 Sat 18:00-21:00 +1w>
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 20:59]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-11 Sat 20:59]
+     :END:
+**** TODO Coding_time
+     SCHEDULED: <2015-07-14 Tue 18:00-21:00 +1w>
+**** TODO Drink_water_01
+     SCHEDULED: <2015-07-12 Sun 06:30 +1d>
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 16:32]
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 18:02]
+     - State "done"       from "TODO"       [2015-07-09 Thu 09:28]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-11 Sat 16:32]
+     :END:
+**** DONE Drink_water_02
+     CLOSED: [2015-07-10 Fri 18:02] SCHEDULED: <2015-07-10 Fri 08:30>
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 18:02]
+     - State "done"       from "TODO"       [2015-07-09 Thu 09:30]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-09 Thu 09:30]
+     :END:
+**** TODO Drink_water_03
+     SCHEDULED: <2015-07-12 Sun 10:30 +1d>
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 16:38]
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 18:02]
+     - State "done"       from "TODO"       [2015-07-09 Thu 11:28]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-11 Sat 16:38]
+     :END:
+**** TODO Drink_water_04
+     SCHEDULED: <2015-07-12 Sun 12:30 +1d>
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 16:38]
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 18:02]
+     - State "done"       from "TODO"       [2015-07-09 Thu 14:02]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-11 Sat 16:38]
+     :END:
+**** TODO Drink_water_05
+     SCHEDULED: <2015-07-12 Sun 14:30 +1d>
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 16:38]
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 18:02]
+     - State "done"       from "TODO"       [2015-07-09 Thu 14:44]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-11 Sat 16:38]
+     :END:
+**** TODO Drink_water_06
+     SCHEDULED: <2015-07-12 Sun 16:30 +1d>
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 16:38]
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 18:03]
+     - State "done"       from "TODO"       [2015-07-09 Thu 16:39]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-11 Sat 16:38]
+     :END:
+**** TODO Drink_water_07
+     SCHEDULED: <2015-07-12 Sun 18:30 +1d>
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 20:59]
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 21:29]
+     - State "done"       from "TODO"       [2015-07-09 Thu 19:19]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-11 Sat 20:59]
+     :END:
+**** TODO Drink_water_08
+     SCHEDULED: <2015-07-12 Sun 19:30 +1d>
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 20:59]
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 21:29]
+     - State "done"       from "TODO"       [2015-07-09 Thu 19:29]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-11 Sat 20:59]
+     :END:
+**** TODO Sleep_time
+     SCHEDULED: <2015-07-12 Sun 23:30-05:00 +1d>
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 22:46]
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 22:46]
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 22:39]
+     - State "DONE"       from "TODO"       [2015-07-09 Thu 23:16]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-11 Sat 22:46]
+     :END:
+**** Hold Speaking_time
+     SCHEDULED: <2015-07-09 Thu 05:00-06:00 +1d>
+**** TODO Reading_time
+     SCHEDULED: <2015-07-12 Sun 22:30-23:30 +1d>
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 22:33]
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 21:29]
+     - State "DONE"       from "TODO"       [2015-07-09 Thu 23:15]
+     - State "DONE"       from "TODO"       [2015-07-09 Thu 23:15]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-11 Sat 22:33]
+     :END:
+**** TODO Writing_time
+     SCHEDULED: <2015-07-15 Wed 21:00-22:30 +1w>
+     - State "done"       from "TODO"       [2015-07-08 Wed 20:57]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-08 Wed 20:57]
+     :END:
+**** TODO Writing_time
+     SCHEDULED: <2015-08-13 Thu 21:00-22:30 +1w>
+     - State "DONE"       from "TODO"       [2015-07-09 Thu 23:15]
+     - State "DONE"       from "TODO"       [2015-07-09 Thu 23:15]
+     - State "DONE"       from "TODO"       [2015-07-09 Thu 23:12]
+     - State "done"       from "TODO"       [2015-07-09 Thu 21:23]
+     - State "done"       from "STARTED"    [2015-07-09 Thu 21:23]
+     :LOGBOOK:
+     CLOCK: [2015-07-09 Thu 20:57]--[2015-07-09 Thu 21:23] =>  0:26
+     :END:
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-09 Thu 23:15]
+     :END:
+**** TODO Writing_time
+     SCHEDULED: <2015-07-14 Tue 21:00-22:30 +1w>
+**** TODO Writing_time
+     SCHEDULED: <2015-08-15 Sat 21:00-22:30 +1w>
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 22:46]
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 22:46]
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 22:46]
+     - State "DONE"       from "STARTED"    [2015-07-11 Sat 22:33]
+     :LOGBOOK:
+     CLOCK: [2015-07-11 Sat 21:04]--[2015-07-11 Sat 22:32] =>  1:28
+     :END:
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 20:59]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-11 Sat 22:46]
+     :END:
+**** TODO Writing_time
+     SCHEDULED: <2015-07-12 Sun 21:00-22:30 +1w>
+**** TODO Writing_time
+     SCHEDULED: <2015-08-14 Fri 16:00-17:30 +1w>
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 23:47]
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 21:31]
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 21:29]
+     - State "DONE"       from "STARTED"    [2015-07-10 Fri 18:06]
+     :LOGBOOK:
+     CLOCK: [2015-07-10 Fri 16:00]--[2015-07-10 Fri 18:00] =>  2:00
+     :END:
+     - State "DONE"       from "TODO"       [2015-07-10 Fri 18:02]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-10 Fri 23:47]
+     :END:
+**** TODO Writing_time
+     SCHEDULED: <2015-07-13 Mon 16:00-17:30 +1w>
+**** WAITING Study_time
+     SCHEDULED: <2015-07-11 Sat 8:00-12:00 +1w>
+**** TODO Study_time
+     SCHEDULED: <2015-08-15 Sat 14:00-17:30 +1w>
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 22:46]
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 22:46]
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 22:33]
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 18:14]
+     - State "DONE"       from "STARTED"    [2015-07-11 Sat 18:14]
+     :LOGBOOK:
+     CLOCK: [2015-07-11 Sat 16:33]--[2015-07-11 Sat 18:14] =>  1:41
+     :END:
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-11 Sat 22:46]
+     :END:
+**** TODO Plan_time
+     SCHEDULED: <2015-07-12 Sun 8:00-12:00 +2w>
+**** TODO Plan_time
+     SCHEDULED: <2015-07-19 Sun 14:00-17:30 +2w>
+**** TODO Clean up the room
+     SCHEDULED: <2015-07-12 Sun 14:00-17:30 +2w>
+**** TODO Clean up the room
+     SCHEDULED: <2015-07-19 Sun 8:00-12:00 +2w>
+**** TODO Review_time
+     SCHEDULED: <2015-07-12 Sun 19:30-20:30 +1w>
+*** Projects 
+**** Back_end development engineer
+***** WAITING python flask
+      DEADLINE: <2015-07-10 Fri>
+      - State "STARTED"    from "done"       [2015-07-09 Thu 11:31]
+      - State "done"       from "STARTED"    [2015-07-09 Thu 11:30]
+      :LOGBOOK:
+      CLOCK: [2015-07-09 Thu 14:17]--[2015-07-09 Thu 16:32] =>  2:15
+      CLOCK: [2015-07-09 Thu 09:32]--[2015-07-09 Thu 11:45] =>  2:13
+      :END:
+***** STARTED Mysql
+      DEADLINE: <2015-07-14 Tue>
+      :LOGBOOK:
+      :END:
+***** Sql Alchemy 
+      DEADLINE: <2015-07-17 Fri>
+***** Mongodb
+      DEADLINE: <2015-07-21 Tue>
+***** Pymongo
+      DEADLINE: <2015-07-23 Thu>
+***** Redis
+      DEADLINE: <2015-07-27 Mon>
+***** Redis-py
+      DEADLINE: <2015-07-29 Wed>
+**** Technology_book_list
+***** <Programming in C>[0%]
+  - [-] Theory Note[26%]
+    - [X] Chapter One
+    - [X] Chapter Two
+    - [X] Chapter Three
+	- [X] Chapter Four
+	- [X] Chapter Five
+	- [ ] Chapter Six
+	- [ ] Chapter Seven
+	- [ ] Chapter Eight
+	- [ ] Chapter Nine
+	- [ ] Chapter Ten
+	- [ ] Chapter Eleven
+	- [ ] Chapter Twelve
+	- [ ] Chapter Thirteen
+	- [ ] Chapter Fourteen
+	- [ ] Chapter Fifteen
+	- [ ] Chapter Sixteen
+	- [ ] Chapter Seventeen
+	- [ ] Chapter Eighteen
+	- [ ] Chapter Nineteen
+  - [-] LAB Note[21%]
+    - [X] Chapter One
+    - [X] Chapter Two
+    - [X] Chapter Three
+	- [X] Chapter Four
+	- [ ] Chapter Five
+	- [ ] Chapter Six
+	- [ ] Chapter Seven
+	- [ ] Chapter Eight
+	- [ ] Chapter Nine
+	- [ ] Chapter Ten
+	- [ ] Chapter Eleven
+	- [ ] Chapter Twelve
+	- [ ] Chapter Thirteen
+	- [ ] Chapter Fourteen
+	- [ ] Chapter Fifteen
+	- [ ] Chapter Sixteen
+	- [ ] Chapter Seventeen
+	- [ ] Chapter Eighteen
+	- [ ] Chapter Nineteen
+***** <Code:The Hidden Language of Computer Hardware and Software>
+***** <Structure and INterpretation of Comuputer Programs>
+***** <The Elements of Computing Systems>
+***** <Computer Systems A Programmer's Perspetive>
+***** <The C Programming Language>
+***** <The UNIX Programming Environment>
+***** <The Art of UNIX Programming>
+***** <Introduction to Algorithms>
+***** <The Practice of Programming>
+***** <Programming Pearls>
+***** <C++ Primer>
+***** <Effective C++>
+***** <Inside C++ Object Model>
+***** <C++ Templates>
+***** <The Design and Evolution of C++>
+***** <Code Complete>
+***** <The Science Of Programming Gries>
+***** <Elemental Design Pattern>
+***** <Elements of Programming>
+***** <Principles and Practice Using C++>
+***** <The Standard C Library>
+***** <Pointer On C>
+***** <C Traps And Pitfalls>
+***** <C A Reference Manual>
+***** <C Interfaces and Implementations>
+***** <Expert C Programming:Deep C Secrets>
+***** <The C++ Standard Library>
+***** <The C++ Programming Language>
+***** <More Programming Pearls Confessions of a Coder>
+***** <Langurage Implementation Patterns>
+***** <Algorithms On Strings Trees And Sequences>
+***** <Algorithms Design Manual>
+***** <The Science Of Programming>
+***** <Algorithms>
+***** <Introdution To The Design And Analysis Of Algorithms>
+***** <Introdution To Algorithms: A Creative Approach>
+***** <More Programming Pearls>
+***** <Programming Language Pragmatics>
+***** <Data Structures And Problem Solving: Using C>
+***** <Code Optimization: Effective Memory Usage>
+***** <Refactoring Improving The Design Of Existing Code>
+***** <How To Design Programs>
+**** Technology_class_list
+***** <python>[15%]
+  - [X] Lesson One[11/11]
+    - [X] Course introdution
+    - [X] Python foundation is introduced 01 
+    - [X] Python foundation is introduced 02
+    - [X] Python install
+    - [X] Python programming style
+    - [X] Python operations
+    - [X] Python annotation
+    - [X] Python user interaction
+    - [X] Python process control 01
+    - [X] Python process control 02
+    - [X] Python process control 03
+  - [X] Lesson Two[8/8]
+    - [X] IO file processing 01
+    - [X] IO file processing 02
+    - [X] IO file processing 03
+    - [X] IO file processing 04
+    - [X] List 01
+    - [X] List 02
+    - [X] List 03
+    - [X] Dictionary
+  - [X] Lesson Three[8/8]
+    - [X] Iterator
+    - [X] Function 01
+    - [X] Function 02
+    - [X] Lambda function 01
+    - [X] Lambda function 02
+    - [X] Built-in function
+    - [X] Pickle
+    - [X] Module
+  - [-] Lesson Four[2/10]
+    - [X] Decorator
+    - [X] Exception handling 01
+    - [ ] Exception handling 02
+    - [ ] Exception handling 03
+    - [ ] Object-oriented programming 01
+    - [ ] Object-oriented programming 02
+    - [ ] Object-oriented programming 03
+    - [ ] Object-oriented programming 04
+    - [ ] Modify the class attribute 01
+    - [ ] Modify the class attribute 02
+  - [ ] Lesson Five
+  - [ ] Lesson Six
+  - [ ] Lesson Seven
+  - [ ] Lesson Eight
+  - [ ] Lesson Nine
+  - [ ] Lesson Ten
+  - [ ] Lesson Eleven
+  - [ ] Lesson Twelve
+  - [ ] Lesson Thirteen
+  - [ ] Lesson Fourteen
+  - [ ] Lesson Fifteen
+  - [ ] Lesson Sixteen
+  - [ ] Lesson Seventeen
+  - [ ] Lesson Eighteen
+  - [ ] Lesson Nineteen
+***** <Introduction To Computer Science And Programming Using Python>
+***** <Harvard CS50>
+***** <Udacity CS212 Design Of Computer Program>
+***** <UC Berkeley SICP>
+***** <MIT Learning SICP>
+***** <Coursera The Hardware/Software Interface>
+***** <Coursera Algorithms: Design And Analysis>
+***** <MIT Introdution to Algorithms>
+***** <Coursera Programming Languages>
+***** <Udacity CS262 Programming Language>
+***** <Advanced Data Structures>
+*** Next Action
+**** DONE Buy Some Snacks
+     CLOSED: [2015-07-09 Thu 23:13]
+     - State "DONE"       from "TODO"       [2015-07-09 Thu 23:13]
+**** DONE Catch The Regular Bus 
+     CLOSED: [2015-07-09 Thu 23:13]
+     - State "DONE"       from ""           [2015-07-09 Thu 23:13]
+     - State "done"       from "TODO"       [2015-07-09 Thu 09:34]
+     <2015-07-08 21:30>
+**** DONE Go to the bathroom on the toilet
+     CLOSED: [2015-07-09 Thu 23:13]
+     - State "DONE"       from ""           [2015-07-09 Thu 23:13]
+     - State "done"       from "TODO"       [2015-07-09 Thu 09:38]
+**** DONE Go to the bathroom on the toilet
+     CLOSED: [2015-07-09 Thu 23:14]
+     - State "DONE"       from ""           [2015-07-09 Thu 23:14]
+     - State "done"       from "TODO"       [2015-07-09 Thu 14:16]
+**** DONE Go to the bathroot on the toilet
+     CLOSED: [2015-07-09 Thu 23:14]
+     - State "DONE"       from ""           [2015-07-09 Thu 23:14]
+     - State "done"       from "TODO"       [2015-07-09 Thu 16:49]
+**** DONE Search some information about MYSQL
+     CLOSED: [2015-07-09 Thu 23:14]
+     - State "DONE"       from ""           [2015-07-09 Thu 23:14]
+     - State "done"       from "TODO"       [2015-07-09 Thu 17:22]
+**** DONE Search some information about sql alchemy
+     CLOSED: [2015-07-09 Thu 23:14]
+     - State "DONE"       from ""           [2015-07-09 Thu 23:14]
+     - State "done"       from "TODO"       [2015-07-09 Thu 17:22]
+**** DONE Search some information about Mongodb
+     CLOSED: [2015-07-09 Thu 23:14]
+     - State "DONE"       from ""           [2015-07-09 Thu 23:14]
+     - State "done"       from "TODO"       [2015-07-09 Thu 17:22]
+**** DONE Search some information about Pymongo
+     CLOSED: [2015-07-09 Thu 23:14]
+     - State "DONE"       from ""           [2015-07-09 Thu 23:14]
+     - State "done"       from "TODO"       [2015-07-09 Thu 17:22]
+**** DONE Search some information about Redis
+     CLOSED: [2015-07-09 Thu 23:14]
+     - State "DONE"       from ""           [2015-07-09 Thu 23:14]
+     - State "done"       from "TODO"       [2015-07-09 Thu 17:22]
+**** DONE Search some information about Redis-py
+     CLOSED: [2015-07-09 Thu 23:14]
+     - State "DONE"       from ""           [2015-07-09 Thu 23:14]
+     - State "done"       from "TODO"       [2015-07-09 Thu 17:22]
+**** DONE Buy Some Snacks
+     CLOSED: [2015-07-11 Sat 20:59]
+     - State "DONE"       from "TODO"       [2015-07-11 Sat 20:59]
+** temporary_list
