@@ -80,12 +80,13 @@
 **** TODO Coding_time
      SCHEDULED: <2015-07-14 Tue 18:00-21:00 +1w>
 **** TODO Drink_water_01
-     SCHEDULED: <2015-07-12 Sun 06:30 +1d>
+     SCHEDULED: <2015-07-13 Mon 06:30 +1d>
+     - State "DONE"       from "TODO"       [2015-07-12 Sun 12:45]
      - State "DONE"       from "TODO"       [2015-07-11 Sat 16:32]
      - State "DONE"       from "TODO"       [2015-07-10 Fri 18:02]
      - State "done"       from "TODO"       [2015-07-09 Thu 09:28]
      :PROPERTIES:
-     :LAST_REPEAT: [2015-07-11 Sat 16:32]
+     :LAST_REPEAT: [2015-07-12 Sun 12:45]
      :END:
 **** DONE Drink_water_02
      CLOSED: [2015-07-10 Fri 18:02] SCHEDULED: <2015-07-10 Fri 08:30>
@@ -95,10 +96,11 @@
 **** TODO Coding_time
      SCHEDULED: <2015-07-14 Tue 18:00-21:00 +1w>
 **** TODO Drink_water_01
-     SCHEDULED: <2015-07-10 Fri 06:30 +1d>
+     SCHEDULED: <2015-07-11 Sat 06:30 +1d>
+     - State "DONE"       from "TODO"       [2015-07-12 Sun 12:45]
      - State "done"       from "TODO"       [2015-07-09 Thu 09:28]
      :PROPERTIES:
-     :LAST_REPEAT: [2015-07-09 Thu 09:28]
+     :LAST_REPEAT: [2015-07-12 Sun 12:45]
      :END:
 **** TODO Drink_water_02
      SCHEDULED: <2015-07-10 Fri 08:30>
@@ -108,21 +110,23 @@
      :LAST_REPEAT: [2015-07-09 Thu 09:30]
      :END:
 **** TODO Drink_water_03
+     - State "DONE"       from "TODO"       [2015-07-12 Sun 12:45]
 <<<<<<< HEAD
-     SCHEDULED: <2015-07-12 Sun 10:30 +1d>
+     SCHEDULED: <2015-07-13 Mon 10:30 +1d>
      - State "DONE"       from "TODO"       [2015-07-11 Sat 16:38]
      - State "DONE"       from "TODO"       [2015-07-10 Fri 18:02]
      - State "done"       from "TODO"       [2015-07-09 Thu 11:28]
      :PROPERTIES:
-     :LAST_REPEAT: [2015-07-11 Sat 16:38]
+     :LAST_REPEAT: [2015-07-12 Sun 12:45]
      :END:
 **** TODO Drink_water_04
-     SCHEDULED: <2015-07-12 Sun 12:30 +1d>
+     SCHEDULED: <2015-07-13 Mon 12:30 +1d>
+     - State "DONE"       from "TODO"       [2015-07-12 Sun 12:45]
      - State "DONE"       from "TODO"       [2015-07-11 Sat 16:38]
      - State "DONE"       from "TODO"       [2015-07-10 Fri 18:02]
      - State "done"       from "TODO"       [2015-07-09 Thu 14:02]
      :PROPERTIES:
-     :LAST_REPEAT: [2015-07-11 Sat 16:38]
+     :LAST_REPEAT: [2015-07-12 Sun 12:45]
      :END:
 **** TODO Drink_water_05
      SCHEDULED: <2015-07-12 Sun 14:30 +1d>
@@ -157,24 +161,26 @@
      :LAST_REPEAT: [2015-07-11 Sat 20:59]
      :END:
 **** TODO Sleep_time
-     SCHEDULED: <2015-07-12 Sun 23:30-05:00 +1d>
+     SCHEDULED: <2015-07-13 Mon 23:30-05:00 +1d>
+     - State "DONE"       from "TODO"       [2015-07-12 Sun 12:45]
      - State "DONE"       from "TODO"       [2015-07-11 Sat 22:46]
      - State "DONE"       from "TODO"       [2015-07-11 Sat 22:46]
      - State "DONE"       from "TODO"       [2015-07-11 Sat 22:39]
      - State "DONE"       from "TODO"       [2015-07-09 Thu 23:16]
      :PROPERTIES:
-     :LAST_REPEAT: [2015-07-11 Sat 22:46]
+     :LAST_REPEAT: [2015-07-12 Sun 12:45]
 =======
-     SCHEDULED: <2015-07-10 Fri 10:30 +1d>
+     SCHEDULED: <2015-07-11 Sat 10:30 +1d>
      - State "done"       from "TODO"       [2015-07-09 Thu 11:28]
      :PROPERTIES:
      :LAST_REPEAT: [2015-07-09 Thu 11:28]
      :END:
 **** TODO Drink_water_04
-     SCHEDULED: <2015-07-10 Fri 12:30 +1d>
+     SCHEDULED: <2015-07-11 Sat 12:30 +1d>
+     - State "DONE"       from "TODO"       [2015-07-12 Sun 12:45]
      - State "done"       from "TODO"       [2015-07-09 Thu 14:02]
      :PROPERTIES:
-     :LAST_REPEAT: [2015-07-09 Thu 14:02]
+     :LAST_REPEAT: [2015-07-12 Sun 12:45]
      :END:
 **** TODO Drink_water_05
      SCHEDULED: <2015-07-10 Fri 14:30 +1d>
@@ -307,7 +313,11 @@
      SCHEDULED: <2015-07-11 Sat 14:00-17:30 +1w>
 >>>>>>> b301e311959efe12fc6ac03f8f280ff5f3e98e8c
 **** TODO Plan_time
-     SCHEDULED: <2015-07-12 Sun 8:00-12:00 +2w>
+     SCHEDULED: <2015-07-26 Sun 08:00-12:00 +2w>
+     - State "DONE"       from "TODO"       [2015-07-12 Sun 12:45]
+     :PROPERTIES:
+     :LAST_REPEAT: [2015-07-12 Sun 12:45]
+     :END:
 **** TODO Plan_time
      SCHEDULED: <2015-07-19 Sun 14:00-17:30 +2w>
 **** TODO Clean up the room
@@ -511,8 +521,9 @@
 *** Next Action
 <<<<<<< HEAD
 =======
-**** done Have A Dinner
-     CLOSED: [2015-07-08 Wed 19:09]
+**** DONE Have A Dinner
+     CLOSED: [2015-07-12 Sun 12:59]
+     - State "DONE"       from ""           [2015-07-12 Sun 12:59]
      - State "done"       from "STARTED"    [2015-07-08 Wed 19:09]
      :LOGBOOK:
      CLOCK: [2015-07-08 Wed 18:32]--[2015-07-08 Wed 19:09] =>  0:37
@@ -568,4 +579,18 @@
      - State "DONE"       from "TODO"       [2015-07-11 Sat 20:59]
 =======
 >>>>>>> b301e311959efe12fc6ac03f8f280ff5f3e98e8c
+*** Schedule_list
+**** TODO Go to HongKong to buy MACBOOK Pro 15 inch laptop
+     SCHEDULED: <2015-07-18 Sat>
+**** TODO Buy a cleaner in TaoBao
+     SCHEDULED: <2015-07-16 Thu>
+**** TODO Go to HanLiFeng's house to visit his new house
+     SCHEDULED: <2015-07-19 Sun>
+**** TODO Learn Python(this is important)
+**** TODO Learn how to deploy the MYSQL Server(just install) with Ubuntu 14.04 lts
+**** TODO Learn how to deploy the Mongodb Server(just install) with Ubuntu 14.04 lts
+**** TODO Learn how to deploy the Redis Server(just install) with Ubuntu 14.04 lts
+**** TODO Watching TV drama "Modern Family(Season One)"
+**** TODO Dinner with Mola and Miko sometimes next week
+**** TODO Phone recharge my parents and I
 ** temporary_list
